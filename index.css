@@ -1,0 +1,20 @@
+.boxcenter{
+    width: 100%;
+    border: 2px solid red;
+    position: absolute;
+    text-align: center;
+    background-color: greenyellow;
+}
+img{
+    width: 80%;
+    height: 400px;
+    margin: 0px auto;
+    border: 2px solid green;
+}
+iframe{
+    position: absolute;
+    margin-top: 400px;
+}
+.fb-comments{
+    margin-top: 10px;
+}
